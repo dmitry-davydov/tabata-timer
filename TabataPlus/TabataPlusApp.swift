@@ -11,7 +11,7 @@ import SwiftUI
 struct TabataPlusApp: App {
     var body: some Scene {
         WindowGroup {
-            InProgress()
+            TimerView()
         }
     }
 }
